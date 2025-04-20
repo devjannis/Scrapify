@@ -71,7 +71,7 @@ embed = product.to_embed()
 from Scrapers import NikeScraper
 
 # Search for a Nike product with SKU
-scraper = Scraper("de", "CW2288-111")
+scraper = NikeScraper("de", "CW2288-111")
 product = scraper.scrape_data()
 
 # Display product information
