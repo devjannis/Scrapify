@@ -1,4 +1,4 @@
-# Retail Scrapers Collection
+# Retail Scrapers Collection - Scrapify
 
 A collection of scrapers for various online retailers and e-commerce platforms. This library allows you to retrieve product data from popular websites like Nike, Zalando, Shopify, and more.
 
